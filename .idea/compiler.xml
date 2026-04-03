@@ -2,9 +2,15 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+<<<<<<< HEAD
       <module name="01-IntroToBuildSystem" target="26" />
       <module name="01-IntroToBuildSystem.main" target="26" />
       <module name="01-IntroToBuildSystem.test" target="26" />
+=======
+      <module name="IntroToBuildSytem" target="26" />
+      <module name="IntroToBuildSytem.main" target="26" />
+      <module name="IntroToBuildSytem.test" target="26" />
+>>>>>>> origin/main
     </bytecodeTargetLevel>
   </component>
 </project>

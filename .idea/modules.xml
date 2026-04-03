@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/01-IntroToBuildSystem.iml" filepath="$PROJECT_DIR$/01-IntroToBuildSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/01-IntroToBuildSystem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/01-IntroToBuildSystem.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/01-IntroToBuildSystem.test.iml" filepath="$PROJECT_DIR$/.idea/modules/01-IntroToBuildSystem.test.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/IntroToBuildSytem.iml" filepath="$PROJECT_DIR$/IntroToBuildSytem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntroToBuildSytem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/IntroToBuildSytem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntroToBuildSytem.test.iml" filepath="$PROJECT_DIR$/.idea/modules/IntroToBuildSytem.test.iml" />
+>>>>>>> origin/main
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Backend-Tech.iml" filepath="$PROJECT_DIR$/.idea/Java-Backend-Tech.iml" />
     </modules>
   </component>
